@@ -18,7 +18,7 @@ fn main() {
 
 
     let id_students= "12";
-    let name = "John Doe";
+    let name = "Will Gutierrez";
     let new_student = models::Student { 
         id:id_students.to_string(),
         name_student:name.to_string(),
